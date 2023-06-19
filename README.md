@@ -1,1 +1,1 @@
-# Tech_Resources.
+# Tech_Resources
